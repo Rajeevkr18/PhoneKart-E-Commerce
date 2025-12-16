@@ -4,11 +4,6 @@
 It is built using **React.js** for the frontend, **Node.js & Express** for the backend, and **MongoDB** as the database.  
 The platform supports authentication, product management, orders, and a modern user interface.
 
-🎥 **Demo Video:**  
-https://user-images.githubusercontent.com/84639970/226336865-730156f4-196f-4787-bb6b-2c5ecf09a123.mp4
-
----
-
 ## 🚀 Run the Project Locally
 
 ### 🔹 Backend Setup
