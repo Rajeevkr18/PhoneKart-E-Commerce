@@ -16,7 +16,7 @@ cd backend
 2. Install dependencies:
 
 ```bash
-yarn
+npm
 ```
 
 3. Create a `.env` file in the `backend` folder and add the following:
@@ -30,7 +30,7 @@ JWT_REFRESH_SECRET=your_refresh_token_secret
 4. Start the backend server:
 
 ```bash
-yarn dev
+npm run
 ```
 
 Backend will run on:
